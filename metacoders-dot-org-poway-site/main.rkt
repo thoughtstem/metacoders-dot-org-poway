@@ -25,7 +25,7 @@
 (define (index)
   (page index.html
         (city-page
-         #:banner-url "https://secularstudents.org/wp-content/uploads/2019/09/US-Capitol.jpeg"
+         #:banner-url "https://upload.wikimedia.org/wikipedia/commons/e/e6/LakePowayByPhilKonstantin.JPG"
          #:locations-list (list
                            (location-courses
                             #:location-name "LOCATION 1"
