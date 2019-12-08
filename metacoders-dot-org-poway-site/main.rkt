@@ -25,6 +25,7 @@
 (define (index)
   (page index.html
         (city-page
+         #:city-name "Poway"
          #:banner-url "https://upload.wikimedia.org/wikipedia/commons/e/e6/LakePowayByPhilKonstantin.JPG"
          #:locations-list (list
                            (location-courses
