@@ -8,7 +8,7 @@
 (define (index)
   (page index.html
         (city-page
-         #:city-name "Poway"
+         #:city-name "Poway, CA"
          #:banner-url "https://upload.wikimedia.org/wikipedia/commons/e/e6/LakePowayByPhilKonstantin.JPG"
          )))
 
