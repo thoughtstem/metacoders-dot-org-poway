@@ -9,7 +9,7 @@
   (page index.html
         (city-page
          #:city-name "Poway, CA"
-         #:banner-url "https://upload.wikimedia.org/wikipedia/commons/e/e6/LakePowayByPhilKonstantin.JPG"
+         #:banner-url (prefix/pathify poway-banner-path)
          )))
 
 (define (pages)
