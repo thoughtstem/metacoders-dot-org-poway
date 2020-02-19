@@ -25,6 +25,42 @@
       ;#:meeting-dates (list "2/8/2020" "2/15/2020" "2/22/2020" "2/29/2020" "3/7/2020" "3/14/2020" "3/21/2020")
       ;#:status        'open
    ))
+   
+(define/provide-course weekly-class-k-2nd-spring
+  (course
+      #:topic         "Pokemon Clicker Games"
+      #:sku           "sku_d9smiHH2SPm4KLGC7nUug"
+      #:video-path    healer-animal-mp4-path
+      #:description   "In our Spring program, students at Painted Rock Elementary will code their own Pokemon-themed whack-a-mole games! K-2nd students will learn how to customize their games however they want: Are they a Pokemon trainer collecting all the Pikachus? Are they a Bulbasaur collecting Pokemon friends, but avoiding the poison Pokemon? Students don't need to be Pokemon fans to enjoy this course. This course will not only strengthen students’ coding skills, but also their keyboard and mouse skills. Throughout the course, students will earn physical badges that demonstrate their mastery and inspire them to keep coding!"
+      #:grade-range   "K - 2nd"
+      #:location      "Painted Rock Elementary"
+      #:address       "16711 Martincoit Rd, Poway, CA 92064"
+      #:address-link  "https://goo.gl/maps/FY2qgbESiahhhjE36"
+      #:price         215
+      #:discount      21.5
+      #:start-time    "1:30pm"
+      #:end-time      "2:30pm"
+      #:meeting-dates (list "03/18/2020" "3/25/2020" "4/1/2020" "4/8/2020" "4/15/2020" "4/22/2020" "4/29/2020" "5/6/2020" "5/13/2020")
+      #:status        'open
+   ))
+   
+(define/provide-course weekly-class-3rd-6th-spring
+  (course
+      #:topic         "Coding That's Out of This World!"
+      #:sku           "sku_Aggm7EjzQnKHNPhlBVqFw"
+      #:video-path    healer-animal-mp4-path
+      #:description   "Space... the final frontier. We're preparing 3rd-5th grade students at Painted Rock Elementary for space exploration by teaching them how to code their own solar systems and galaxies! In our Spring program, students will learn how to build 3D galaxies that include orbiting planets and stars, which they can customize and texture. Students will build our actual solar system, and imagine other solar systems not yet discovered. Beginner coders will enjoy learning how a few lines of code can create a whole digital world at their fingertips; advanced students will take their knowledge to infinite and beyond! In this session, students will continue to earn badges as they become more and more fluent in coding."
+      #:grade-range   "K - 2nd"
+      #:location      "Painted Rock Elementary"
+      #:address       "16711 Martincoit Rd, Poway, CA 92064"
+      #:address-link  "https://goo.gl/maps/FY2qgbESiahhhjE36"
+      #:price         215
+      #:discount      21.5
+      #:start-time    "1:30pm"
+      #:end-time      "2:30pm"
+      #:meeting-dates (list "03/18/2020" "3/25/2020" "4/1/2020" "4/8/2020" "4/15/2020" "4/22/2020" "4/29/2020" "5/6/2020" "5/13/2020")
+      #:status        'open
+   ))
 
 ; ========== EXAMPLE CAMP ===========
 #;(define clicker-cartoon-description
