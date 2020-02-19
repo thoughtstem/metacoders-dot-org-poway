@@ -44,13 +44,13 @@
       #:status        'open
    ))
    
-(define/provide-course weekly-class-3rd-6th-spring
+(define/provide-course weekly-class-3rd-5th-spring
   (course
       #:topic         "Coding That's Out of This World!"
       #:sku           "sku_Aggm7EjzQnKHNPhlBVqFw"
       #:video-path    3d-orbit-mp4-path
       #:description   "Space... the final frontier. We're preparing 3rd-5th grade students at Painted Rock Elementary for space exploration by teaching them how to code their own solar systems and galaxies! In our Spring program, students will learn how to build 3D galaxies that include orbiting planets and stars, which they can customize and texture. Students will build our actual solar system, and imagine other solar systems not yet discovered. Beginner coders will enjoy learning how a few lines of code can create a whole digital world at their fingertips; advanced students will take their knowledge to infinite and beyond! In this session, students will continue to earn badges as they become more and more fluent in coding."
-      #:grade-range   "K - 2nd"
+      #:grade-range   "3rd - 5th"
       #:location      "Painted Rock Elementary"
       #:address       "16711 Martincoit Rd, Poway, CA 92064"
       #:address-link  "https://goo.gl/maps/FY2qgbESiahhhjE36"
@@ -91,7 +91,7 @@
          #:banner-url (prefix/pathify poway-banner-path)
          #:alt-tag "City of Poway, California with a view of Lake Poway and natural preserve"
          #:school-year-courses (list weekly-class-k-2nd-spring
-                                     weekly-class-3rd-6th-spring)
+                                     weekly-class-3rd-5th-spring)
          )))
 
 (define (pages)
