@@ -37,7 +37,7 @@
       #:address       "16711 Martincoit Rd, Poway, CA 92064"
       #:address-link  "https://goo.gl/maps/FY2qgbESiahhhjE36"
       #:price         215
-      #:discount      21.5
+      #:discount      22
       #:start-time    "1:30pm"
       #:end-time      "2:30pm"
       #:meeting-dates (list "03/18/2020" "3/25/2020" "4/1/2020" "4/8/2020" "4/15/2020" "4/22/2020" "4/29/2020" "5/6/2020" "5/13/2020")
@@ -55,7 +55,7 @@
       #:address       "16711 Martincoit Rd, Poway, CA 92064"
       #:address-link  "https://goo.gl/maps/FY2qgbESiahhhjE36"
       #:price         215
-      #:discount      21.5
+      #:discount      22
       #:start-time    "1:30pm"
       #:end-time      "2:30pm"
       #:meeting-dates (list "03/18/2020" "3/25/2020" "4/1/2020" "4/8/2020" "4/15/2020" "4/22/2020" "4/29/2020" "5/6/2020" "5/13/2020")
