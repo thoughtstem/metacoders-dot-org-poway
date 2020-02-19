@@ -90,6 +90,8 @@
          #:city-name "Poway, CA"
          #:banner-url (prefix/pathify poway-banner-path)
          #:alt-tag "City of Poway, California with a view of Lake Poway and natural preserve"
+         #:school-year-courses (list weekly-class-k-2nd-spring
+                                     weekly-class-3rd-6th-spring)
          )))
 
 (define (pages)
