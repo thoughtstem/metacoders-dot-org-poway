@@ -30,7 +30,7 @@
   (course
       #:topic         "Pokemon Clicker Games"
       #:sku           "sku_d9smiHH2SPm4KLGC7nUug"
-      #:video-path    healer-animal-mp4-path
+      #:video-path    clicker-pokemon-mp4-path
       #:description   "In our Spring program, students at Painted Rock Elementary will code their own Pokemon-themed whack-a-mole games! K-2nd students will learn how to customize their games however they want: Are they a Pokemon trainer collecting all the Pikachus? Are they a Bulbasaur collecting Pokemon friends, but avoiding the poison Pokemon? Students don't need to be Pokemon fans to enjoy this course. This course will not only strengthen students’ coding skills, but also their keyboard and mouse skills. Throughout the course, students will earn physical badges that demonstrate their mastery and inspire them to keep coding!"
       #:grade-range   "K - 2nd"
       #:location      "Painted Rock Elementary"
@@ -48,7 +48,7 @@
   (course
       #:topic         "Coding That's Out of This World!"
       #:sku           "sku_Aggm7EjzQnKHNPhlBVqFw"
-      #:video-path    healer-animal-mp4-path
+      #:video-path    3d-orbit-mp4-path
       #:description   "Space... the final frontier. We're preparing 3rd-5th grade students at Painted Rock Elementary for space exploration by teaching them how to code their own solar systems and galaxies! In our Spring program, students will learn how to build 3D galaxies that include orbiting planets and stars, which they can customize and texture. Students will build our actual solar system, and imagine other solar systems not yet discovered. Beginner coders will enjoy learning how a few lines of code can create a whole digital world at their fingertips; advanced students will take their knowledge to infinite and beyond! In this session, students will continue to earn badges as they become more and more fluent in coding."
       #:grade-range   "K - 2nd"
       #:location      "Painted Rock Elementary"
